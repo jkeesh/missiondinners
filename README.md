@@ -2,6 +2,8 @@
 
 This is the website archive for dinner parties and theme dinner parties I have hosted. Each dinner has a link, a title, and goes to a corresponding pinterest board.
 
+http://missiondinners.com
+
 
 ## Deploy Instructions
 
