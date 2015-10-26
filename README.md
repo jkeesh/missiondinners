@@ -10,3 +10,5 @@ http://missiondinners.com
 This lives in my main server and can be deployed using the basic post-receive hook. Locally, make changes, commit and run
 
     git push web master
+
+Location: ~/Dropbox/code_projects/missiondinners
